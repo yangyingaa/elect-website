@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e1bbf46-9cf8-48c2-bf68-1e3a8499f908" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1iwFgvfjzR9bJijfdrb9Yt0gkwU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e1bbf46-9cf8-48c2-bf68-1e3a8499f908" name="Default Changelist" comment="" />
+      <created>1602810864690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602810864690</updated>
+      <workItem from="1602810866761" duration="4156000" />
+      <workItem from="1602893500166" duration="4493000" />
+      <workItem from="1603075288479" duration="12768000" />
+      <workItem from="1603153718547" duration="16815000" />
+      <workItem from="1603241173259" duration="1419000" />
+      <workItem from="1603243656011" duration="9646000" />
+      <workItem from="1603325350601" duration="3627000" />
+      <workItem from="1603411617898" duration="2977000" />
+      <workItem from="1603436209519" duration="1745000" />
+      <workItem from="1603498528371" duration="753000" />
+      <workItem from="1603501609594" duration="1406000" />
+      <workItem from="1603671478283" duration="19000" />
+      <workItem from="1603671904274" duration="675000" />
+      <workItem from="1603757958311" duration="1603000" />
+      <workItem from="1603789733205" duration="631000" />
+      <workItem from="1603844253758" duration="601000" />
+      <workItem from="1604040400292" duration="4554000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="181" y="18" key="#CLI_Interpreters" timestamp="1603079351484">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="181" y="18" key="#CLI_Interpreters/0.0.1366.728@0.0.1366.728" timestamp="1603079351484" />
+    <state x="615" y="8" key="#PHP" timestamp="1603079355083">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="615" y="8" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1603079355083" />
+    <state x="204" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603437366995">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="204" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1603437366995" />
+    <state x="499" y="286" key="NewPhpFileDialog" timestamp="1603078563977">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="286" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1603078563977" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1603097620009">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1603097620009" />
+  </component>
+</project>
